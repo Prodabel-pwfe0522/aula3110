@@ -9,13 +9,13 @@ function escolha(opcao)
             break
             case 1:
             document.getElementById("txt1").innerHTML = "2"
-            break
+            break;
             case 2:
             document.getElementById("txt1").innerHTML = "3"
-            break
+            break;
             case 3:
             document.getElementById("txt1").innerHTML = "4"
-            break
+            break;
             case 4:
             document.getElementById("txt1").innerHTML = "5";
             break;
